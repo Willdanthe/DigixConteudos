@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\bin\Debug\net8.0\aula7.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\bin\Debug\net8.0\aula7.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\bin\Debug\net8.0\aula7.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\bin\Debug\net8.0\aula7.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\bin\Debug\net8.0\aula7.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\refint\aula7.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\aula7.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula7\obj\Debug\net8.0\ref\aula7.dll
+=======
+>>>>>>> 7c9a559e149af5d97a41afb24b17a8d425a038a0
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula7\obj\Debug\net8.0\aula7.pdb

@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\bin\Debug\net8.0\aula17_OOAbstrato.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\bin\Debug\net8.0\aula17_OOAbstrato.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\bin\Debug\net8.0\aula17_OOAbstrato.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\bin\Debug\net8.0\aula17_OOAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\bin\Debug\net8.0\aula17_OOAbstrato.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\refint\aula17_OOAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\aula17_OOAbstrato.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\aula17_OOAbstrato\obj\Debug\net8.0\ref\aula17_OOAbstrato.dll

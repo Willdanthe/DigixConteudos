@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\bin\Debug\net8.0\Aula_20_Relacoes.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\bin\Debug\net8.0\Aula_20_Relacoes.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\bin\Debug\net8.0\Aula_20_Relacoes.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\bin\Debug\net8.0\Aula_20_Relacoes.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\bin\Debug\net8.0\Aula_20_Relacoes.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\refint\Aula_20_Relacoes.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_20_Relacoes\obj\Debug\net8.0\ref\Aula_20_Relacoes.dll

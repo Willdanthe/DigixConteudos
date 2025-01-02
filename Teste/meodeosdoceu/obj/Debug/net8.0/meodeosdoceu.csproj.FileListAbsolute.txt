@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\bin\Debug\net8.0\meodeosdoceu.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\bin\Debug\net8.0\meodeosdoceu.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\bin\Debug\net8.0\meodeosdoceu.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\bin\Debug\net8.0\meodeosdoceu.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\bin\Debug\net8.0\meodeosdoceu.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\refint\meodeosdoceu.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\meodeosdoceu.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\meodeosdoceu\obj\Debug\net8.0\ref\meodeosdoceu.dll

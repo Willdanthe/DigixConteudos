@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\bin\Debug\net8.0\1AtividadeDoAno.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\bin\Debug\net8.0\1AtividadeDoAno.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\bin\Debug\net8.0\1AtividadeDoAno.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\bin\Debug\net8.0\1AtividadeDoAno.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\bin\Debug\net8.0\1AtividadeDoAno.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\refint\1AtividadeDoAno.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\1AtividadeDoAno.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\1AtividadeDoAno\obj\Debug\net8.0\ref\1AtividadeDoAno.dll

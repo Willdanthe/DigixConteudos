@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\bin\Debug\net8.0\Aula17_AtiviadeAbstrata.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\bin\Debug\net8.0\Aula17_AtiviadeAbstrata.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\bin\Debug\net8.0\Aula17_AtiviadeAbstrata.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\bin\Debug\net8.0\Aula17_AtiviadeAbstrata.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\bin\Debug\net8.0\Aula17_AtiviadeAbstrata.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\refint\Aula17_AtiviadeAbstrata.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\Aula17_AtiviadeAbstrata.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_AtiviadeAbstrata\obj\Debug\net8.0\ref\Aula17_AtiviadeAbstrata.dll

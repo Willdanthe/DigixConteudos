@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\bin\Debug\net8.0\Aula_19_OO_Iterface.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\bin\Debug\net8.0\Aula_19_OO_Iterface.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\bin\Debug\net8.0\Aula_19_OO_Iterface.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\bin\Debug\net8.0\Aula_19_OO_Iterface.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\bin\Debug\net8.0\Aula_19_OO_Iterface.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\refint\Aula_19_OO_Iterface.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\Aula_19_OO_Iterface.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula_19_OO_Iterface\obj\Debug\net8.0\ref\Aula_19_OO_Iterface.dll

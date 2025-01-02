@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\bin\Debug\net8.0\aula6.2.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\bin\Debug\net8.0\aula6.2.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\bin\Debug\net8.0\aula6.2.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\bin\Debug\net8.0\aula6.2.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\bin\Debug\net8.0\aula6.2.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\refint\aula6.2.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\aula6.2.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\aula6.2\obj\Debug\net8.0\ref\aula6.2.dll
+=======
+>>>>>>> 7c9a559e149af5d97a41afb24b17a8d425a038a0
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\aula6.2\obj\Debug\net8.0\aula6.2.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvRcO0ndkcE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willdanthealaman\\Documents\\Willdanthe\\c#\\DigixAprendizagens\\Teste\\AtividadeAvaliativa\\AtividadeAvaliativa.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\willdanthealaman\\Documents\\Willdanthe\\c#\\DigixAprendizagens\\Teste\\AtividadeAvaliativa\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
+}

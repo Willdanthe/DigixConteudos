@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\bin\Debug\net8.0\AtividadeAvaliativa.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\bin\Debug\net8.0\AtividadeAvaliativa.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\bin\Debug\net8.0\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\bin\Debug\net8.0\AtividadeAvaliativa.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\bin\Debug\net8.0\AtividadeAvaliativa.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\refint\AtividadeAvaliativa.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\Python\Teste\AtividadeAvaliativa\obj\Debug\net8.0\ref\AtividadeAvaliativa.dll
+=======
+>>>>>>> 7c9a559e149af5d97a41afb24b17a8d425a038a0
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Teste\AtividadeAvaliativa\obj\Debug\net8.0\AtividadeAvaliativa.pdb

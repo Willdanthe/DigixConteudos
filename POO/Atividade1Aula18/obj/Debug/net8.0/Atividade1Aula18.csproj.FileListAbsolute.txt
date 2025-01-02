@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\bin\Debug\net8.0\Atividade1Aula18.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\bin\Debug\net8.0\Atividade1Aula18.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\bin\Debug\net8.0\Atividade1Aula18.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\bin\Debug\net8.0\Atividade1Aula18.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\bin\Debug\net8.0\Atividade1Aula18.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\refint\Atividade1Aula18.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\Atividade1Aula18.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Atividade1Aula18\obj\Debug\net8.0\ref\Atividade1Aula18.dll

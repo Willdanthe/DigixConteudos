@@ -1,0 +1,14 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\bin\Debug\net8.0\aula10.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\bin\Debug\net8.0\aula10.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\bin\Debug\net8.0\aula10.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\bin\Debug\net8.0\aula10.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\bin\Debug\net8.0\aula10.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\refint\aula10.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\aula10.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\aula10\obj\Debug\net8.0\ref\aula10.dll

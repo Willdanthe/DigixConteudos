@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\bin\Debug\net8.0\AtividadeDeRelações.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\bin\Debug\net8.0\AtividadeDeRelações.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\bin\Debug\net8.0\AtividadeDeRelações.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\bin\Debug\net8.0\AtividadeDeRelações.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\bin\Debug\net8.0\AtividadeDeRelações.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\refint\AtividadeDeRelações.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\AtividadeDeRelações.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\poo\AtividadeDeRelações\obj\Debug\net8.0\ref\AtividadeDeRelações.dll

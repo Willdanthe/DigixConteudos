@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\bin\Debug\net8.0\Aula13DadoAbstrato.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\bin\Debug\net8.0\Aula13DadoAbstrato.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\bin\Debug\net8.0\Aula13DadoAbstrato.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\bin\Debug\net8.0\Aula13DadoAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\bin\Debug\net8.0\Aula13DadoAbstrato.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\refint\Aula13DadoAbstrato.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\Aula13DadoAbstrato.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula13DadoAbstrato\obj\Debug\net8.0\ref\Aula13DadoAbstrato.dll

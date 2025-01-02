@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\bin\Debug\net8.0\DesafiosSorts.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\bin\Debug\net8.0\DesafiosSorts.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\bin\Debug\net8.0\DesafiosSorts.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\bin\Debug\net8.0\DesafiosSorts.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\bin\Debug\net8.0\DesafiosSorts.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\refint\DesafiosSorts.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\DesafiosSorts.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\DesafiosSorts\obj\Debug\net8.0\ref\DesafiosSorts.dll

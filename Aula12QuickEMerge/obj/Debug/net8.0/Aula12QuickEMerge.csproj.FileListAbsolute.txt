@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\bin\Debug\net8.0\Aula12QuickEMerge.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\bin\Debug\net8.0\Aula12QuickEMerge.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\bin\Debug\net8.0\Aula12QuickEMerge.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\bin\Debug\net8.0\Aula12QuickEMerge.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\bin\Debug\net8.0\Aula12QuickEMerge.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\refint\Aula12QuickEMerge.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\Aula12QuickEMerge.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\Aula12QuickEMerge\obj\Debug\net8.0\ref\Aula12QuickEMerge.dll

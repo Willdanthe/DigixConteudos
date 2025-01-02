@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtividadeDeRelações/1.0.0": {
+        "runtime": {
+          "AtividadeDeRelações.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeDeRelações/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula12QuickEMerge/1.0.0": {
+        "runtime": {
+          "Aula12QuickEMerge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula12QuickEMerge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

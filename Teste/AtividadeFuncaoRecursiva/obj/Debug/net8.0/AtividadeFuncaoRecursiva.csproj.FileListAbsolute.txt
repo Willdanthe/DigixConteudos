@@ -1,0 +1,14 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\bin\Debug\net8.0\AtividadeFuncaoRecursiva.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\bin\Debug\net8.0\AtividadeFuncaoRecursiva.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\bin\Debug\net8.0\AtividadeFuncaoRecursiva.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\bin\Debug\net8.0\AtividadeFuncaoRecursiva.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\bin\Debug\net8.0\AtividadeFuncaoRecursiva.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\refint\AtividadeFuncaoRecursiva.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\AtividadeFuncaoRecursiva.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\AtividadeFuncaoRecursiva\obj\Debug\net8.0\ref\AtividadeFuncaoRecursiva.dll

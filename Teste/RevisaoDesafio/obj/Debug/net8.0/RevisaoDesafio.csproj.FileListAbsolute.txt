@@ -1,0 +1,14 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\bin\Debug\net8.0\RevisaoDesafio.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\bin\Debug\net8.0\RevisaoDesafio.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\bin\Debug\net8.0\RevisaoDesafio.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\bin\Debug\net8.0\RevisaoDesafio.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\bin\Debug\net8.0\RevisaoDesafio.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\refint\RevisaoDesafio.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\RevisaoDesafio.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\Teste\RevisaoDesafio\obj\Debug\net8.0\ref\RevisaoDesafio.dll

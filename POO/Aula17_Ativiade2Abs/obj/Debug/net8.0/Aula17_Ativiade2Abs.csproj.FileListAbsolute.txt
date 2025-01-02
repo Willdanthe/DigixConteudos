@@ -1,0 +1,10 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula17_Ativiade2Abs\obj\Debug\net8.0\Aula17_Ativiade2Abs.sourcelink.json

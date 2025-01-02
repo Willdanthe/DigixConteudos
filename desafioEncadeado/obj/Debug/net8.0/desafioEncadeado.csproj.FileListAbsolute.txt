@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.sourcelink.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\bin\Debug\net8.0\desafioEncadeado.exe
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\bin\Debug\net8.0\desafioEncadeado.deps.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\bin\Debug\net8.0\desafioEncadeado.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\bin\Debug\net8.0\desafioEncadeado.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\bin\Debug\net8.0\desafioEncadeado.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\refint\desafioEncadeado.dll
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.pdb
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\desafioEncadeado.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\Willdanthe\c#\DigixAprendizagens\desafioEncadeado\obj\Debug\net8.0\ref\desafioEncadeado.dll

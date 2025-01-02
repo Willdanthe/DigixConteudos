@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\bin\Debug\net8.0\Aula18_OO_Encapsulamento.exe
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\bin\Debug\net8.0\Aula18_OO_Encapsulamento.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\bin\Debug\net8.0\Aula18_OO_Encapsulamento.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\bin\Debug\net8.0\Aula18_OO_Encapsulamento.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\bin\Debug\net8.0\Aula18_OO_Encapsulamento.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\refint\Aula18_OO_Encapsulamento.dll
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.pdb
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\Aula18_OO_Encapsulamento.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\DigixAprendizagens\POO\Aula18_OO_Encapsulamento\obj\Debug\net8.0\ref\Aula18_OO_Encapsulamento.dll
