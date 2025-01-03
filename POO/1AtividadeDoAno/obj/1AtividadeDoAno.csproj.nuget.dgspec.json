@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj": {}
+    "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj": {
+    "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj",
+        "projectUniqueName": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj",
         "projectName": "1AtividadeDoAno",
-        "projectPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj",
+        "projectPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\1AtividadeDoAno\\1AtividadeDoAno.csproj",
         "packagesPath": "C:\\Users\\willdanthealaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\1AtividadeDoAno\\obj\\",
+        "outputPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\1AtividadeDoAno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
