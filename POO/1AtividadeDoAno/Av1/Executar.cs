@@ -7,7 +7,7 @@ namespace _1AtividadeDoAno
 {
     public class Executar
     {
-        static void Ex1(string[] args)
+        static void Teste(string[] args)
         {
             Homem homem = new Homem();
             homem.ObterDescrição();

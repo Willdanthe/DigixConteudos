@@ -17,12 +17,16 @@ namespace _1AtividadeDoAno.Av2
             this.Metragem = metragem;
             this.Endereco = endereço;
             this.Engenheiro = engenheiro;
+
+            this.Unidades = new List<UnidadeResidencial>();
         }
 
         public bool CadastrarUnidade(UnidadeResidencial novaUnid)
         {
             Unidades.Add(novaUnid);
-            return  true;
+            // System.Console.WriteLine("Unidade Cadastrada"); //Teste pra ver a funcionalidade da função
+            return true;
+
         }
 
         public abstract string DescricaoDoImovel();
