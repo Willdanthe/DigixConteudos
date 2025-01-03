@@ -7,17 +7,17 @@ namespace _1AtividadeDoAno
 {
     public class Executar
     {
-        static void Ex1(string[] args)
+        static void Main(string[] args)
         {
-            Homem homem = new Homem();
+            Animal homem = new Homem();
             homem.ObterDescrição();
             System.Console.WriteLine();
             
-            Cachorro cachorro = new Cachorro();
+            Animal cachorro = new Cachorro();
             cachorro.ObterDescrição();
             System.Console.WriteLine();
 
-            Mosca mosca = new Mosca();
+            Animal mosca = new Mosca();
             mosca.ObterDescrição();
             System.Console.WriteLine();            
         }

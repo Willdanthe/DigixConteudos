@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\Aula_19_OO_Relacoes\\Aula_19_OO_Relacoes.csproj",
+      "projectUniqueName": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\Aula_19_OO_Relacoes\\Aula_19_OO_Relacoes.csproj",
       "projectName": "Aula_19_OO_Relacoes",
-      "projectPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\Aula_19_OO_Relacoes\\Aula_19_OO_Relacoes.csproj",
+      "projectPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\Aula_19_OO_Relacoes\\Aula_19_OO_Relacoes.csproj",
       "packagesPath": "C:\\Users\\willdanthealaman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\DigixAprendizagens\\POO\\Aula_19_OO_Relacoes\\obj\\",
+      "outputPath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\TesteDemais\\POO\\Aula_19_OO_Relacoes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

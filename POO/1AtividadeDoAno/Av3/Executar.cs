@@ -7,7 +7,7 @@ namespace _1AtividadeDoAno.Av3
 {
     public class Executar
     {
-        static void Main(string[] args)
+        static void Teste(string[] args)
         {
             TipoA moto = new("Honda","Bis 125",300, 50.50,3);
             moto.CalcularLocDiaria();

@@ -1,0 +1,5 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.sourcelink.json
