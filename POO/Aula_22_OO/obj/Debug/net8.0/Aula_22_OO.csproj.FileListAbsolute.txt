@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\bin\Debug\net8.0\Aula_22_OO.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\bin\Debug\net8.0\Aula_22_OO.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\bin\Debug\net8.0\Aula_22_OO.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\bin\Debug\net8.0\Aula_22_OO.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\bin\Debug\net8.0\Aula_22_OO.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\refint\Aula_22_OO.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\Aula_22_OO.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_22_OO\obj\Debug\net8.0\ref\Aula_22_OO.dll

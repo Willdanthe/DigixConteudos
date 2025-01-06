@@ -72,6 +72,14 @@ namespace DesafioProfessor
             System.Console.WriteLine("Digite o Endereço do Cliente: ");
             string endereço = Console.ReadLine();
 
+            System.Console.WriteLine("Digite o Estado: (Sigla, ex: SP, MS): ");
+            string estado = Console.ReadLine().ToUpper();
+
+            if (!Enum.TryParse(estado, out Estado estadoEnum))
+            { // Tenta convertar o valor de uma string pra um enum WIPCOMMENT
+                System.Console.WriteLine("Estado inválido");
+            }
+
             Cliente cliente = new ClienteGold{
                 Nome = nome,
                 CPF = cpf,
@@ -80,8 +88,8 @@ namespace DesafioProfessor
                 Endereco = new Endereco{
                     Rua = endereço.Split(", ")[0],
                     Cidade = endereço.Split(", ")[1],
-                    Estado = endereço.Split(", ")[2],
-                    CEP = endereço.Split(", ")[3]
+                    Estado = estadoEnum,
+                    CEP = endereço.Split(", ")[2]
                 }
                 
             };
@@ -108,9 +116,9 @@ namespace DesafioProfessor
             System.Console.Write("Digite o Preço de Custo: ");
             double precoCusto = Convert.ToDouble(Console.ReadLine());
             
-            // Inserir Apelido do produto
-            System.Console.Write("Digite o Apelido do produto: ");
-            string apelido = Console.ReadLine();
+            // // Inserir Apelido do produto 
+            // System.Console.Write("Digite o Apelido do produto: ");
+            // string apelido = Console.ReadLine();
 
             // Inserir se o produto é perecível
             System.Console.Write("Digite se o produto é perecível: ");
@@ -133,8 +141,19 @@ namespace DesafioProfessor
             string nomeFornecedor = Console.ReadLine();
 
             // Inserir Endereço do Fornecedor
-            System.Console.WriteLine("Digite o Endereço do Cliente (Rua, Cidade, Estado, CEP): ");
+            System.Console.WriteLine("Digite o Endereço do Cliente (Rua, Cidade, CEP): ");
             string  endereço = Console.ReadLine();
+
+            System.Console.WriteLine("Digite o Estado: (Sigla, ex: SP, MS): ");
+            string estado = Console.ReadLine().ToUpper();
+
+
+            if (!Enum.TryParse(estado, out Estado estadoEnum))
+            { // Tenta convertar o valor de uma string pra um enum WIPCOMMENT
+                System.Console.WriteLine("Estado inválido");
+            }
+
+            string apelido = ApelidosPorEstado[estadoEnum];
 
             // Inserir Nome do Fornecedor
             System.Console.Write("Digite o nome do produto: ");
@@ -154,8 +173,8 @@ namespace DesafioProfessor
                 Endereco = new Endereco{
                     Rua = endereço.Split(", ")[0],
                     Cidade = endereço.Split(", ")[1],
-                    Estado = endereço.Split(", ")[2],
-                    CEP = endereço.Split(", ")[3]
+                    Estado = estadoEnum,
+                    CEP = endereço.Split(", ")[2]
                 }
 
             };
@@ -257,7 +276,7 @@ namespace DesafioProfessor
             }
         }
 
-        public static void GerarRelatorioVendas(List<Venda> vendas)
+        private static void GerarRelatorioVendas(List<Venda> vendas)
         {
             // Console.Clear();
             System.Console.WriteLine("===== Relatório de Vendas =====");
@@ -273,6 +292,15 @@ namespace DesafioProfessor
                 }
             }
         }
+
+        private static Dictionary<Estado, string> ApelidosPorEstado = new Dictionary<Estado, string>
+        {
+            {Estado.SP, "Chipa"},
+            {Estado.MS, "Chipa"},
+            {Estado.MG, "Pão de Queijo"},
+            {Estado.RJ, "Bixcoito"},
+            {Estado.BA, "Acarajé"},
+        };
 
     }
 }
