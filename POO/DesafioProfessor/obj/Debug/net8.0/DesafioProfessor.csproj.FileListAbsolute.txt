@@ -3,3 +3,13 @@ C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\
 C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.AssemblyInfo.cs
 C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.csproj.CoreCompileInputs.cache
 C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\bin\Debug\net8.0\DesafioProfessor.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\bin\Debug\net8.0\DesafioProfessor.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\bin\Debug\net8.0\DesafioProfessor.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\bin\Debug\net8.0\DesafioProfessor.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\bin\Debug\net8.0\DesafioProfessor.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\refint\DesafioProfessor.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\DesafioProfessor.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioProfessor\obj\Debug\net8.0\ref\DesafioProfessor.dll
