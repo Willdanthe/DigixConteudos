@@ -23,7 +23,7 @@ namespace Aula_22_OO.Atividade
             ordem.AddItem(segundoitem);
             ordem.AddItem(terceiroitem);
 
-            System.Console.WriteLine(ordem.Total);
+            System.Console.WriteLine(ordem.Total());
             
         }
     }

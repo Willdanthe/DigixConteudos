@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\bin\Debug\net8.0\DesafioEnum.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\bin\Debug\net8.0\DesafioEnum.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\bin\Debug\net8.0\DesafioEnum.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\bin\Debug\net8.0\DesafioEnum.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\bin\Debug\net8.0\DesafioEnum.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\refint\DesafioEnum.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\DesafioEnum.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\DesafioEnum\obj\Debug\net8.0\ref\DesafioEnum.dll

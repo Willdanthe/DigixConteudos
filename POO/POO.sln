@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioProfessor", "Desafio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_22_OO", "Aula_22_OO\Aula_22_OO.csproj", "{B9F50857-4B53-49E7-9A35-7B4D0664C8C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioEnum", "DesafioEnum\DesafioEnum.csproj", "{F5CFD3DC-3B06-4EC5-A75D-150C3C35C14D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{B9F50857-4B53-49E7-9A35-7B4D0664C8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F50857-4B53-49E7-9A35-7B4D0664C8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F50857-4B53-49E7-9A35-7B4D0664C8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CFD3DC-3B06-4EC5-A75D-150C3C35C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CFD3DC-3B06-4EC5-A75D-150C3C35C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CFD3DC-3B06-4EC5-A75D-150C3C35C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CFD3DC-3B06-4EC5-A75D-150C3C35C14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
