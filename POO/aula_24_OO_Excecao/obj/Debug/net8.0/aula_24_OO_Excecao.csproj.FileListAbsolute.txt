@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\bin\Debug\net8.0\aula_24_OO_Excecao.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\bin\Debug\net8.0\aula_24_OO_Excecao.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\bin\Debug\net8.0\aula_24_OO_Excecao.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\bin\Debug\net8.0\aula_24_OO_Excecao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\bin\Debug\net8.0\aula_24_OO_Excecao.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\refint\aula_24_OO_Excecao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\aula_24_OO_Excecao.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\aula_24_OO_Excecao\obj\Debug\net8.0\ref\aula_24_OO_Excecao.dll

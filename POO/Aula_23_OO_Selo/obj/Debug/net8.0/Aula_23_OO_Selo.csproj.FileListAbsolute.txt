@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\bin\Debug\net8.0\Aula_23_OO_Selo.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\bin\Debug\net8.0\Aula_23_OO_Selo.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\bin\Debug\net8.0\Aula_23_OO_Selo.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\bin\Debug\net8.0\Aula_23_OO_Selo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\bin\Debug\net8.0\Aula_23_OO_Selo.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\refint\Aula_23_OO_Selo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\Aula_23_OO_Selo.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_23_OO_Selo\obj\Debug\net8.0\ref\Aula_23_OO_Selo.dll
