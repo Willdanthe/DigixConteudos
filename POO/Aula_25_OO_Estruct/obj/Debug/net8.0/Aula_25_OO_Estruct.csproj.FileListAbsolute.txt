@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\bin\Debug\net8.0\Aula_25_OO_Estruct.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\bin\Debug\net8.0\Aula_25_OO_Estruct.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\bin\Debug\net8.0\Aula_25_OO_Estruct.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\bin\Debug\net8.0\Aula_25_OO_Estruct.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\bin\Debug\net8.0\Aula_25_OO_Estruct.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\refint\Aula_25_OO_Estruct.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\Aula_25_OO_Estruct.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula_25_OO_Estruct\obj\Debug\net8.0\ref\Aula_25_OO_Estruct.dll

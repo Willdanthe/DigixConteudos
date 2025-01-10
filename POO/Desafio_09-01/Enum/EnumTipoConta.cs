@@ -1,4 +1,4 @@
-namespace Desafio_09_01.Enum
+namespace Desafio_09_01
 {
     public enum EnumTipoConta
     {

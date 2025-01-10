@@ -9,14 +9,14 @@ namespace Desafio_09_01
     {
         public string Nome { get; set; }
         public string CPF { get; }
-        public Endereco Endereco;
+        public string Endereco { get;set; }
         public DateTime Ddn { get; set; } // Data de Nascimento
 
         public string NumCartao { get; }
 
         private int Senha;
 
-        public Usuario(string nome, string cpf, Endereco endereco, DateTime dataDeNascimento, int senha)
+        public Usuario(string nome, string cpf, string endereco, DateTime dataDeNascimento, int senha)
         {
 
             Random r = new Random();
@@ -38,6 +38,7 @@ namespace Desafio_09_01
 
         public int VerificarSenha()
         {
+            var a = 1;
             return this.Senha;
         }
         

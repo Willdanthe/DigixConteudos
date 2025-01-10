@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ConstrainedExecution;
 using System.Threading.Tasks;
 
 namespace Desafio_09_01
@@ -18,11 +19,23 @@ namespace Desafio_09_01
         {
             this.Nome = nome;
             this.Codigo = codigo;
+            this.Contas = new List<Conta>();
+            this.ContasCorrentes = new List<ContaCorrente>();
+            this.ContasPoupancas = new List<ContaPoupanca>();
         }
 
-        public void Gerenciamentos()
+        public void CriarConta()
         {
-            System.Console.WriteLine("Gerenciando..."); // WIP
+            System.Console.WriteLine("=-=-=-=-=-=Criando Conta=-=-=-=-=-=");
+            System.Console.Write("Nome: ");
+            string nome = Console.ReadLine();
+            
+            System.Console.WriteLine("Cpf: ");
+            string cpf = Console.ReadLine();
+            
+            Console.ReadLine();
+            
+
         }
 
         public void Maintain()
