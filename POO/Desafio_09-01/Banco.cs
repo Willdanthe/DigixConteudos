@@ -24,23 +24,87 @@ namespace Desafio_09_01
             this.ContasPoupancas = new List<ContaPoupanca>();
         }
 
-        public void CriarConta()
+        public Conta    CriarConta(EnumTipoConta tipoConta)
         {
             System.Console.WriteLine("=-=-=-=-=-=Criando Conta=-=-=-=-=-=");
-            System.Console.Write("Nome: ");
+            System.Console.WriteLine("Nome: ");
             string nome = Console.ReadLine();
             
             System.Console.WriteLine("Cpf: ");
             string cpf = Console.ReadLine();
             
-            Console.ReadLine();
+            System.Console.WriteLine("Endereço: ");
+            string endereco = Console.ReadLine();
+
+            System.Console.WriteLine("Data de Nascimento (dd/MM/yyyy): ");
+            DateTime ddn = Convert.ToDateTime(Console.ReadLine());
             
+            string senha;
+            do
+            {
+                System.Console.WriteLine("Digite uma senha de 4 a 6 Digitos: ");
+                senha = Console.ReadLine();
+
+                if (senha.Length < 4) 
+                {
+                    Console.WriteLine("Senha inválida: Digite uma senha com mais de 4 digitos\n");
+                } else if(senha.Length > 6)
+                {
+                    Console.WriteLine("Senha inválida: Digite uma senha com mais de 6 digitos\n");
+                } else if (senha == null)
+                {
+                    System.Console.WriteLine("Entrada inválida\n");
+                } else
+                {
+                    break;
+                }
+            } while (true);
+            Usuario user = new Usuario(nome, cpf, endereco, ddn, senha);
+            Conta conta = new Conta(user, tipoConta);
+
+            this.Contas.Add(conta);
+
+            if (tipoConta == EnumTipoConta.Poupanca)
+            {
+                ContaPoupanca contapou = new ContaPoupanca(user, tipoConta);
+                this.ContasPoupancas.Add(contapou);
+                return contapou;
+
+            } else if(tipoConta == EnumTipoConta.Corrente)
+            {
+                ContaCorrente contaco = new ContaCorrente(user, tipoConta);
+                this.ContasCorrentes.Add(contaco);
+                return contaco;
+            } else 
+            {
+                System.Console.WriteLine("Tipo de conta inválido");
+                return null;
+            }
 
         }
 
-        public void Maintain()
+        public void ListarContas()
         {
-            System.Console.WriteLine("..."); // WIP
+            foreach (var conta in Contas)
+            {
+                System.Console.WriteLine();
+                System.Console.WriteLine(conta.ToString());
+                System.Console.WriteLine();
+            }
+        }
+
+        public void BuscarPorCpf(string cpf)
+        {
+                Conta contacache = Contas.Find(cont => cont.Usuario.CPF == "cpf");
+                System.Console.WriteLine("Buscando...");
+                if (contacache != null)
+                {
+                    System.Console.WriteLine("Conta encontrada:");
+                    Console.WriteLine(contacache.ToString());
+                } else
+                {
+                    throw new DomainException("Erro de Busca: CPF inválido ou conta não existe");
+                }
         }
     }
 }
