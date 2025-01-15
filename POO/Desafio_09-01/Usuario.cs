@@ -14,9 +14,9 @@ namespace Desafio_09_01
 
         public string NumCartao { get; }
 
-        private int Senha;
+        private string Senha;
 
-        public Usuario(string nome, string cpf, string endereco, DateTime dataDeNascimento, int senha)
+        public Usuario(string nome, string cpf, string endereco, DateTime dataDeNascimento, string senha)
         {
 
             Random r = new Random();
@@ -36,9 +36,8 @@ namespace Desafio_09_01
             this.Senha = senha;
         }
 
-        public int VerificarSenha()
+        public string VerificarSenha()
         {
-            var a = 1;
             return this.Senha;
         }
         

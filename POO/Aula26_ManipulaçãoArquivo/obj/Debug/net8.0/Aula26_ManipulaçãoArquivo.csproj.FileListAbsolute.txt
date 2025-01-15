@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\bin\Debug\net8.0\Aula26_ManipulaçãoArquivo.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\bin\Debug\net8.0\Aula26_ManipulaçãoArquivo.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\bin\Debug\net8.0\Aula26_ManipulaçãoArquivo.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\bin\Debug\net8.0\Aula26_ManipulaçãoArquivo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\bin\Debug\net8.0\Aula26_ManipulaçãoArquivo.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\refint\Aula26_ManipulaçãoArquivo.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\Aula26_ManipulaçãoArquivo.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\Aula26_ManipulaçãoArquivo\obj\Debug\net8.0\ref\Aula26_ManipulaçãoArquivo.dll

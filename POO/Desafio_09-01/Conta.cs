@@ -13,7 +13,7 @@ namespace Desafio_09_01
         public Usuario Usuario {get;set;}
         public double Saldo {get;set;}
 
-        private readonly EnumTipoConta TipoConta;
+        public readonly EnumTipoConta TipoConta;
 
         public List<ATMTransacao> Transacoes {get;set;}
 
@@ -24,7 +24,7 @@ namespace Desafio_09_01
             Random r = new Random();
 
             this.IdConta = r.Next(0,1000000);
-            this. Usuario = usuario;
+            this.Usuario = usuario;
             this.Saldo = 0;
             this.TipoConta = tipoConta;
             this.Transacoes = new List<ATMTransacao>();
@@ -34,19 +34,29 @@ namespace Desafio_09_01
         // Métodos
 
         public void HistoricoTransacoes()
-        {}
+        {
+            foreach (var comprovante in Transacoes)
+            {
+                System.Console.WriteLine();
+                System.Console.WriteLine(comprovante.ToString());
+                System.Console.WriteLine();
+            }
+        }
 
                 public void Depositar(double valor, Conta contaRemetente)
         {   
             try{
                 if (valor <= 0)
                 {
-                    throw new DomainException("Depósito Inválido: o valor do seu depósito não pode ser menor ou igual a 0.");
+                    Console.WriteLine("Depósito Inválido: o valor do seu depósito não pode ser menor ou igual a 0.");
                 } else
                 {
                     contaRemetente.Saldo += valor; // Creditando na conta
 
                     ATMTransacao comprovante = new ATMTransacao(EnumTipoTransacao.Deposito, valor, contaRemetente, contaRemetente);
+
+                    this.Transacoes.Add(comprovante);
+
                     System.Console.WriteLine(comprovante.ToString());
                 }
             }
@@ -56,26 +66,34 @@ namespace Desafio_09_01
             }
         }
 
-        public void Sacar(int valor, Conta contaRemetente)
+        public void Sacar(double valor, Conta contaRemetente)
         {   
+            do{
             try{
                 if (valor <= 0)
                 {
-                    throw new DomainException("Saque Inválido: o valor do seu depósito não pode ser menor ou igual a 0.");
+                    Console.WriteLine("Saque Inválido: o valor do seu depósito não pode ser menor ou igual a 0.");
+                    break;
 
                 } else if (contaRemetente.Saldo <= 0)
                 {
-                    throw new DomainException("Saque Inválido: Você você não pode sacar com seu saldo negativo.");
+                    Console.WriteLine("Saque Inválido: Você você não pode sacar com seu saldo negativo.");
+                    break;
+
 
                 } else if (valor > contaRemetente.Saldo)
                 {
-                    throw new DomainException("Saque Inválido: Você você não pode sacar mais que seu saldo. ");
-                }
+                    Console.WriteLine("Saque Inválido: Você você não pode sacar mais que seu saldo. ");
+                    break;
+                } else
                 {
                     contaRemetente.Saldo -= valor; // Debitando da conta
 
                     ATMTransacao comprovante = new ATMTransacao(EnumTipoTransacao.Deposito, valor, contaRemetente, contaRemetente);
+                    this.Transacoes.Add(comprovante);
+
                     System.Console.WriteLine(comprovante.ToString());
+                    break;
 
                 }
             }
@@ -83,19 +101,28 @@ namespace Desafio_09_01
             {
                 System.Console.WriteLine("Entrada de dados errada: "+ e.Message);
             }
+        }   while(true);
         }
-        public void FazerTransacao(int valor, Conta contaRemetente, Conta contaDestinataria)
+        public void FazerTransacao(double valor, Conta contaRemetente, Conta contaDestinataria)
         {   
             try{
                 if (valor <= 0)
                 {
-                    throw new DomainException("Erro de Depósito: o valor do seu depósito não pode ser menor ou igual a 0.");
-                } else
+                    Console.WriteLine("Erro de Depósito: o valor do seu depósito não pode ser menor ou igual a 0.");
+                } 
+                else if (contaRemetente.Saldo <= 0)
+                {
+                    Console.WriteLine("Erro de Depósito: Você não tem saldo!.");
+                    
+                }
+                else
                 {
                     contaRemetente.Saldo -= valor; // Debitando da conta Remetente
                     contaDestinataria.Saldo =+ valor; // Creditando da conta Destinatária
                     
                     ATMTransacao comprovante = new ATMTransacao(EnumTipoTransacao.Deposito, valor, contaRemetente, contaDestinataria);
+                    this.Transacoes.Add(comprovante);
+
 
                     System.Console.WriteLine(comprovante.ToString());
 
@@ -106,7 +133,19 @@ namespace Desafio_09_01
                 System.Console.WriteLine("Entrada de dados errada: "+ e.Message);
             }
         }
-        
+
+        public override string ToString()
+        {
+            return @$"
+Nome: {Usuario.Nome}
+CPF: {Usuario.CPF}
+Endereço: {Usuario.Endereco}
+Data De Nascimento: {Usuario.Ddn.ToString("dd/MM/yyyy")}
+Conta: {this.TipoConta}
+";
+        }
+
+
     }
     
 
@@ -114,8 +153,8 @@ namespace Desafio_09_01
     {
         public void Depositar(double valor, Conta contaDestinataria);
 
-        public void Sacar(int valor, Conta contaDestinataria);
-        public void FazerTransacao(int valor, Conta contaDestinataria, Conta contaRemetente);
+        public void Sacar(double valor, Conta contaDestinataria);
+        public void FazerTransacao(double valor, Conta contaDestinataria, Conta contaRemetente);
 
         
     }
