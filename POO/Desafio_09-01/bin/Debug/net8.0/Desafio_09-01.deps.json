@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v8.0",
@@ -156,4 +157,28 @@
       "hashPath": "system.io.packaging.8.0.1.nupkg.sha512"
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio_09-01/1.0.0": {
+        "runtime": {
+          "Desafio_09-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio_09-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 38dd9c39b819aae2370b2f62b5cbbf3eefa22dad
 }
