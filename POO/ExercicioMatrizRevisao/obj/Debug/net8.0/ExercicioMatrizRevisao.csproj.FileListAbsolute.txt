@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\bin\Debug\net8.0\ExercicioMatrizRevisao.exe
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\bin\Debug\net8.0\ExercicioMatrizRevisao.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\bin\Debug\net8.0\ExercicioMatrizRevisao.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\bin\Debug\net8.0\ExercicioMatrizRevisao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\bin\Debug\net8.0\ExercicioMatrizRevisao.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\refint\ExercicioMatrizRevisao.dll
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.pdb
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ExercicioMatrizRevisao.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\TesteDemais\POO\ExercicioMatrizRevisao\obj\Debug\net8.0\ref\ExercicioMatrizRevisao.dll
